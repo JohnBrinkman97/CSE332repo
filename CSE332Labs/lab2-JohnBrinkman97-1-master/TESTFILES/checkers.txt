@@ -1,0 +1,25 @@
+8 8
+black checker X 0 0
+black checker X 0 2
+black checker X 1 1
+black checker X 2 0
+black checker X 2 2
+black checker X 3 1
+black checker X 4 0
+black checker X 4 2
+black checker X 5 1
+black checker X 6 0
+black checker X 6 2
+black checker X 7 1
+red checker O 0 6
+red checker O 1 5
+red checker O 1 7
+red checker O 2 6
+red checker O 3 5
+red checker O 3 7
+red checker O 4 6
+red checker O 5 5
+red checker O 5 7
+red checker O 6 6
+red checker O 7 5
+red checker O 7 7
